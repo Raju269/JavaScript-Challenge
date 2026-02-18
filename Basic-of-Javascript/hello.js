@@ -1,6 +1,6 @@
 console.log("Hello, World!");
 console.log("Learn javascript ")
-function chaiCode{
+function chaiCode(){
     console.log("chai aur code");
 }
 
